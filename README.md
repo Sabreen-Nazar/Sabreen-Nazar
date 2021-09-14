@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Sabreen-Nazar
 - 👀 I’m interested in Deep Learning and Computer Vision
 - 🌱 I’m currently learning Masters in Artificial Intellegence
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :: nazarsabreen@gmail.con
 
 <!---
