@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sabreen-Nazar
-- 👀 I’m interested in Deep Learning and Computer Vision
+- 👀 I’m interested in Machine Learning and Data Analysis
 - 🌱 I’m currently learning Masters in Artificial Intellegence
 - 📫 How to reach me :: nazarsabreen@gmail.con
 
