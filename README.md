@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sabreen-Nazar
-- 👀 I’m interested in Machine Learning and Data Analysis
-- 🌱 I’m currently learning Masters in Artificial Intellegence
+- 👀 I’m interested in Machine Learning, Data Science , Data Analysis ,Python Programming..
+- 🌱Completed Masters in Artificial Intellegence IBM certified Coarse from Intellipaat, Bangalore
 - 📫 How to reach me :: nazarsabreen@gmail.con
 
 <!---
