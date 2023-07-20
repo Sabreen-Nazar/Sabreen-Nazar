@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sabreen-Nazar
-- 👀 I’m interested in Machine Learning, Data Science , Data Analysis ,Python Programming..
+- 👀 I’m interested in Machine Learning, Data Science , Data Analysis ,Python Programming , R Programming , SQL , PowerBI..
 - 🌱Completed Masters in Artificial Intellegence IBM certified Coarse from Intellipaat, Bangalore
-- 📫 How to reach me :: nazarsabreen@gmail.con
+- 📫 How to reach me :: nazarsabreen@gmail.com
 
 <!---
 Sabreen-Nazar/Sabreen-Nazar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
